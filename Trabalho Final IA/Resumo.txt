@@ -1,0 +1,14 @@
+a) Qual a melhor técnica (acurácia)?
+Random Forest obteve a melhor acurácia.
+
+b) Qual técnica é mais eficiente (custo de processamento)?
+O algoritmo que teve a melhor perfomace foi o KNN, após descobrimos o valor ideial de K.
+
+c) Qual ténica se mostrou mais apropriada para o problema em questão? Porque?
+O algortimo que teve o melhor desempenho foi o Random Forest, pois teve um custo aceitável de processamento e obteve a melhor acurácia,
+O Random Forest é baseada em Bootstrapp Aggregation (Bagging), o que o torna um algoritmo ensambled, que nada mais é do que a combinação de previsões
+de múltiplos algoritmos de machine learning juntos, por isso ele obtem previsões mais acuradas do que qualquer modelo individual.
+
+d) Você processou os dados? (normalizou, excluiu features, etc)
+Foi necessário fazer apenas algumas transformações nas colunas tranformando Strings em Inteiros,para o algoritmo realizar os cálculos.
+No PDF foi explicado.

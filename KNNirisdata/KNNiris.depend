@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599928275 source:c:\users\lucas\downloads\pessoal\inteligência artificial\knniris\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<set>
+	<map>
+
